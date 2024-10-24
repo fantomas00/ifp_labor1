@@ -6,7 +6,7 @@
 </p>
 <p align="right"><strong>Студент:</strong> Ольховський Максим Олександрович </p>
 <p align="right"><strong>Група:</strong> КВ-13</p>
-<p align="right"><strong>Рік:</strong> 2024</p>
+<p align="center"> 2024</p>
 
 ## Загальне завдання
 1. Створіть список з п'яти елементів, використовуючи функції LIST і CONS . Форма
