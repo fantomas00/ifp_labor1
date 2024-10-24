@@ -1,0 +1,5 @@
+(let ((var '(A)))  
+  (list (cons 1 var)
+         (cons 2 var)
+         (cons 3 var)
+         'C))
